@@ -16,7 +16,6 @@ import warnings
 # cycle ends.
 PersistentlyDeprecated = DeprecationWarning
 DeprecatedIn19 = DeprecationWarning
-DeprecatedIn21 = PendingDeprecationWarning
 
 
 def _check_bytes(name, value):
